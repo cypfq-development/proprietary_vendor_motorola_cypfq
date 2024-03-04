@@ -426,4 +426,5 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
-    com.android.hotwordenrollment.common.util
+    com.android.hotwordenrollment.common.util \
+    qti-telephony-common
