@@ -174,6 +174,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/cypfq/proprietary/vendor/etc/thermal-engine-cypfq.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-cypfq.conf \
     vendor/motorola/cypfq/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/motorola/cypfq/proprietary/vendor/etc/vhw.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vhw.xml \
+    vendor/motorola/cypfq/proprietary/vendor/firmware/ILITEK_FW_CSOT_7807S:$(TARGET_COPY_OUT_VENDOR)/firmware/ILITEK_FW_CSOT_7807S \
     vendor/motorola/cypfq/proprietary/vendor/firmware/ILITEK_FW_TM_7807S:$(TARGET_COPY_OUT_VENDOR)/firmware/ILITEK_FW_TM_7807S \
     vendor/motorola/cypfq/proprietary/vendor/firmware/aw882xx_pid_2113_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_pid_2113_acf.bin \
     vendor/motorola/cypfq/proprietary/vendor/firmware/st21nfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/st21nfc_fw.bin \
